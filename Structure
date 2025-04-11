@@ -1,0 +1,10 @@
+faq-chatbot/
+app.py
+model.py
+faqs.json
+templates/
+└── index.html
+static/
+── style.css
+requirements.txt
+└── README.md
